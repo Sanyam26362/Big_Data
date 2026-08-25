@@ -1,0 +1,4 @@
+Write about big Data ?
+Big Data refers to vast, complex, and rapidly accumulating collections of data that exceed the capabilities of traditional relational databases (like MySQL or PostgreSQL) and legacy data management tools. It represents not only raw scale, but also the computational paradigms, distributed architectures, and analytical tools used to capture, store, process, and derive actionable value from massive data streams.
+
+What i learned in this file ? i learned to create a repository , and jump from different branches and change their content , and to add any file to a branch , and commit it to staging area then pushing it.
