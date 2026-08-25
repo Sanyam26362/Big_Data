@@ -1,0 +1,3 @@
+Big data is big and fast, big and complicated datasets that can’t be handled by conventional methods.
+Key characteristics (the “V’s” Volume huge amounts Velocity generated/processed fast Variety structured unstructured mixed formats Veracity data quality Value insights extracted.
+It comes to us from social media, iot sensors, transaction data and logs. Used with technologies such as Hadoop, Spark, and NoSQL databases (and sometimes on cloud platforms). Used to build recommendation systems, fraud detection and predictive analytics.
