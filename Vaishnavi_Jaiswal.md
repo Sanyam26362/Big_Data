@@ -1,0 +1,3 @@
+Big Data refers to large and complex amounts of data that are generated from different sources such as social media, websites, sensors, and online transactions. It is used to analyze information, identify patterns, and make better decisions.
+
+ I learned the basic Git and GitHub workflow, including forking a repository, cloning it, creating a file, committing and pushing changes, and creating a Pull Request.
