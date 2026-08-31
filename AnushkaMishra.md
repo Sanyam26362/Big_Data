@@ -1,0 +1,1 @@
+Big Data refers to extremely large,complex datasets that cannot be stored, managed,or processed using traditional computer software and standard databases.
